@@ -7,11 +7,11 @@ deliver and maintain well-designed, high quality working software.
 And also , I work as online Math , ICT (Computer ) and Programming teacher with more
 than two years of experience.
 
-- 🌐 Visit my [![Linkedin Badge][Linked In Profile ](https://www.linkedin.com/in/sally-mohamed-23708769/)
+- 🌐 Visit my Linkedin profile[Linked In Profile ](https://www.linkedin.com/in/sally-mohamed-23708769/)
   
 - ### Contact Me: <br>
-**E-mail** engsallycis@gmail.com<br>
-**LinkedIn** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sally-mohamed-23708769/)
+  **E-mail** engsallycis@gmail.com<br>
+  **LinkedIn** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sally-mohamed-23708769/)
 
 
 - <div id="badges" align="center">
@@ -70,11 +70,6 @@ than two years of experience.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallyMohamed&layout=compact" width="400" height="200">
-</p>
-
----
 <p align="center">
 
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
