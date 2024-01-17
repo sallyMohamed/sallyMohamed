@@ -53,7 +53,9 @@ than two years of experience.
 </p>
                                                                                                                                                     
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallyMohamed&layout=compact" width="400" height="200">
+</p>
 ---
 
 <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sallyMohamed&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
