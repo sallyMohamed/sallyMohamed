@@ -1,11 +1,10 @@
 # Hi 👋 I am Sally Mohamed! 
 I am a software engineer, I specialize in solving problems using technology tools and dealing with the design, development, testing, and maintenance of software applications.
-I’m Sally Mohamed, a Back-End developer with 6 years of experience.
+I’m Sally Mohamed, a Back-End developer with more than 10 years of experience.
 I’m a specialist in managing and develop application and websites with
 experience in multiple programming languages and database. I
 deliver and maintain well-designed, high quality working software.
-And also , I work as online Math , ICT (Computer ) and Programming teacher with more
-than two years of experience.
+And also , I am the Manager of Online Sally Academy, dedicated to delivering professional and engaging online learning experiences for students.
 
 - 🌐 Visit my Linkedin profile[Linked In Profile ](https://www.linkedin.com/in/sally-mohamed-23708769/)
   
